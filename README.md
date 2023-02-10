@@ -18,3 +18,13 @@
     <img src="https://komarev.com/ghpvc/?username=oparin&style=flat-square&color=blue" alt="" align="center"/>
 </div>
 
+<h2 align="center">
+  Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h2>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="600" height="200"/>
+</div>
+
+---
+
