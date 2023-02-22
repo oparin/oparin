@@ -2,6 +2,7 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="150"/>
 </div>
 
+<div color="red">
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/nikolai-oparin-42a793139" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -63,6 +64,5 @@ I am a Russian Web Developer from Kyrgyzstan. <img src="https://media.giphy.com/
   <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original-wordmark.svg" title="DigitalOcean" alt="DigitalOcean" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 </div>
-
-    
+</div>
 
